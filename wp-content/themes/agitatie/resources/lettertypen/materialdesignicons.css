@@ -1,8 +1,8 @@
 /* MaterialDesignIcons.com */
 @font-face {
   font-family: "Material Design Icons";
-  src: url("/vrijeteelt/wp-content/themes/agitatie/resources/lettertypen/materialdesignicons-webfont.eot?v=2.0.46");
-  src: url("/vrijeteelt/wp-content/themes/agitatie/resources/lettertypen/materialdesignicons-webfont.eot#iefix&v=2.0.46") format("embedded-opentype"), url("/vrijeteelt/wp-content/themes/agitatie/resources/lettertypen/materialdesignicons-webfont.woff2?v=2.0.46") format("woff2"), url("/vrijeteelt/wp-content/themes/agitatie/resources/lettertypen/materialdesignicons-webfont.woff?v=2.0.46") format("woff"), url("/vrijeteelt/wp-content/themes/agitatie/resources/lettertypen/materialdesignicons-webfont.ttf?v=2.0.46") format("truetype"), url("/vrijeteelt/wp-content/themes/agitatie/resources/lettertypen/materialdesignicons-webfont.svg?v=2.0.46#materialdesigniconsregular") format("svg");
+  src: url("/vrijeteelt-static/wp-content/themes/agitatie/resources/lettertypen/materialdesignicons-webfont.eot?v=2.0.46");
+  src: url("/vrijeteelt-static/wp-content/themes/agitatie/resources/lettertypen/materialdesignicons-webfont.eot#iefix&v=2.0.46") format("embedded-opentype"), url("/vrijeteelt-static/wp-content/themes/agitatie/resources/lettertypen/materialdesignicons-webfont.woff2?v=2.0.46") format("woff2"), url("/vrijeteelt-static/wp-content/themes/agitatie/resources/lettertypen/materialdesignicons-webfont.woff?v=2.0.46") format("woff"), url("/vrijeteelt-static/wp-content/themes/agitatie/resources/lettertypen/materialdesignicons-webfont.ttf?v=2.0.46") format("truetype"), url("/vrijeteelt-static/wp-content/themes/agitatie/resources/lettertypen/materialdesignicons-webfont.svg?v=2.0.46#materialdesigniconsregular") format("svg");
   font-weight: normal;
   font-style: normal;
 }
